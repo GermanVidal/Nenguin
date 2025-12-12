@@ -1,4 +1,10 @@
-<h1 align="center"> Hola, soy Germán Vidal👋</h1>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+  Hola, soy Germán Vidal 👋
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=00AAFF&center=true&vCenter=true&width=500&lines=CiberSecurity+Student+|+CTF+Player" />
