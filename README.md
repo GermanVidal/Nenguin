@@ -7,11 +7,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=00AAFF&center=true&vCenter=true&width=500&lines=CiberSecurity+Student+|+CTF+Player" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=600&color=00AAFF&center=true&vCenter=true&width=500&lines=CiberSecurity+Student+|+CTF+Player" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=FF0000&center=true&vCenter=true&width=500&lines=Ethical+Hacking+%26+Red+Team" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=Ethical+Hacking+%26+Red+Team" />
 </p>
 
 ---
