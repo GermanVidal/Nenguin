@@ -1,11 +1,11 @@
 <h1 align="center"> Hola, soy Germán Vidal👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00AAFF&center=true&vCenter=true&width=500&lines=Estudiante+de+Ciberseguridad;CTF+Player" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=00AAFF&center=true&vCenter=true&width=500&lines=CiberSecurity+Student+|+CTF+Player" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=FF0000&center=true&vCenter=true&width=500&lines=Ethical+Hacking+%26+Red+Team" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1450&color=FF0000&center=true&vCenter=true&width=500&lines=Ethical+Hacking+%26+Red+Team" />
 </p>
 
 ---
