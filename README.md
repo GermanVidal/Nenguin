@@ -63,10 +63,10 @@ en seguridad ofensiva y defensiva.
 
 
 <h3 align="center" >Contactame🤝</h3>
-
-<p align="center">
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href=["https://www.linkedin.com/in/german-vidal-4536b6272/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/german-vidal-4536b6272/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
+ </div>
+
+
 
